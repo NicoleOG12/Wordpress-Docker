@@ -16,7 +16,7 @@ O WordPress depende do serviço MariaDB para armazenar os dados da aplicação.
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/NicoleOG12/Wordpress-Docker.git
 ```
 
 Entre na pasta:
